@@ -1,0 +1,8 @@
+User: taqwa
+Age: 20
+
+2026-06-12 11:25:07.285970 | �This is an amazing day, I feel so great!� | Happy
+2026-06-12 11:25:17.573926 | �I feel lonely and hurt.� | Neutral
+2026-06-12 11:25:26.671883 | �I am very angry at you!� | Angry
+2026-06-12 11:25:35.231793 | �I am very worried about the exam.� | Fearful
+2026-06-12 11:25:43.331250 | �The weather is normal.� | Neutral

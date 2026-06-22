@@ -1,0 +1,16 @@
+User: nisha
+Age: 18
+
+2026-06-11 20:53:03.845339 | i am happy to share that i turned 18, so excited about gifts | Happy
+2026-06-11 20:53:57.568860 | not feeling well | Neutral
+2026-06-11 22:05:17.914535 | not feeling well | Neutral
+2026-06-11 22:34:22.494229 | not feeling well | Happy
+2026-06-11 22:41:06.141414 | not feeling well | Sad
+2026-06-11 22:42:28.533508 | I am very happy today | Happy
+2026-06-11 22:42:39.621918 | I feel so good and excited | Happy
+2026-06-11 22:42:49.172447 | This is the best day ever | Happy
+2026-06-11 23:14:30.536278 | I am not afraid of anything | Neutral
+2026-06-11 23:29:35.026811 | I feel afraid and worried | Fearful
+2026-06-11 23:29:53.827531 | I am not angry at you | Sad
+2026-06-11 23:30:09.556303 | I hate this situation | Angry
+2026-06-11 23:30:27.458590 | I was angry but now I am fine | Neutral

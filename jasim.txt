@@ -1,0 +1,6 @@
+User: jasim
+Age: 17
+
+2026-06-12 11:26:51.538830 | I am scared of the dark. | Fearful
+2026-06-12 11:27:03.574227 | I went to school today. | Neutral
+2026-06-12 11:27:25.812831 | I am excited and can’t wait! | Excited
