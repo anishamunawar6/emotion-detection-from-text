@@ -45,4 +45,3 @@ python emotion_detection_text.py
 
 ## Author
 Anisha Munawar – AI Project
-Anisha AI Project
